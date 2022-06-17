@@ -1,2 +1,2 @@
-# StandStill
-"Simplification Of DashBoard"
+### 목적
+| Todo 리스트와 타이머 그리고 모의고사등을 자주 보게되는 웹브라우저에 홈페이지에서 볼수 있게 만드는것.

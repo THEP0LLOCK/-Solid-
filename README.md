@@ -1,2 +1,2 @@
-# -Solid-
-Home site.
+# StandStill
+"Simplification Of DashBoard"
